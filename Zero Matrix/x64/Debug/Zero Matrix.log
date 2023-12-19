@@ -1,0 +1,34 @@
+﻿  Zero Matrix.cpp
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(13,25): error C2146: syntax error: missing ';' before identifier 'j'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(13,27): error C2143: syntax error: missing ';' before '<'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(13,27): error C2143: syntax error: missing ')' before '<'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(13,27): error C2059: syntax error: '<'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(13,35): error C2065: 'j': undeclared identifier
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(13,38): error C2059: syntax error: ')'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(15,13): error C2059: syntax error: 'if'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(15,36): error C2143: syntax error: missing ';' before '{'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(19,17): error C2065: 'j': undeclared identifier
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(20,27): error C2065: 'j': undeclared identifier
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,5): error C2059: syntax error: 'for'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,5): error C2143: syntax error: missing ')' before ';'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,23): error C2143: syntax error: missing ';' before '<'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,23): error C2059: syntax error: '<'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,32): error C2143: syntax error: missing ';' before '++'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,31): error C2086: 'int i': redefinition
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,21): message : see declaration of 'i'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,32): error C2059: syntax error: '++'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,34): error C2059: syntax error: ')'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,36): error C2143: syntax error: missing ';' before '{'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(28,36): error C2447: '{': missing function header (old-style formal list?)
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(41,5): error C2059: syntax error: 'if'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(41,28): error C2143: syntax error: missing ';' before '{'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(41,28): error C2447: '{': missing function header (old-style formal list?)
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(46,5): error C2059: syntax error: 'if'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(46,20): error C2143: syntax error: missing ';' before '{'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(46,20): error C2447: '{': missing function header (old-style formal list?)
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(51,1): error C2059: syntax error: '}'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(51,1): error C2143: syntax error: missing ';' before '}'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(54,1): error C2143: syntax error: missing ';' before '{'
+D:\DSA revision\Zero Matrix\Zero Matrix.cpp(54,1): error C2447: '{': missing function header (old-style formal list?)

@@ -1,0 +1,3 @@
+﻿  stock buy and sell.cpp
+D:\DSA revision\stock buy and sell\stock buy and sell.cpp(12,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  stock buy and sell.vcxproj -> D:\DSA revision\stock buy and sell\x64\Debug\stock buy and sell.exe
