@@ -15,7 +15,6 @@ int maxOnes(vector<int> &arr,int n){
             }
         }
         if(arr[i]!=1){
-           
             count_one = 0;
         }
     }
