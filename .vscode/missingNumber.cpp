@@ -17,8 +17,6 @@ int missingNumber(vector<int>& a,int n){
 
     int missing_number = sum - sum2;
     return missing_number;
-
-
 }
 
 int main()
