@@ -12,7 +12,7 @@ using namespace std;
 //      // Define 2 vectors, one for storing positive 
 //   // and other for negative elements of the array.
 
-//   vector<int> pos ;
+//   vector<int> pos;
 //   vector<int> neg;
 
 //   for(int i=0;i<n;i++){
